@@ -1,0 +1,11 @@
+# Go build artifacts
+*.exe
+*.out
+*.test
+
+# Logs and temporary files
+logs/
+*.log
+
+# Configuration files (if sensitive)
+config/config.json
